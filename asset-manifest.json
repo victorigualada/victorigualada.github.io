@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e5fd616b.chunk.css",
+    "main.js": "/static/js/main.8bb0bc45.chunk.js",
+    "main.js.map": "/static/js/main.8bb0bc45.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fde29dfb.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fde29dfb.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.69092f08.chunk.js": "/static/js/2.69092f08.chunk.js",
+    "static/js/2.69092f08.chunk.js.map": "/static/js/2.69092f08.chunk.js.map",
+    "static/js/3.8e46ed5c.chunk.js": "/static/js/3.8e46ed5c.chunk.js",
+    "static/js/3.8e46ed5c.chunk.js.map": "/static/js/3.8e46ed5c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.e5fd616b.chunk.css.map": "/static/css/main.e5fd616b.chunk.css.map",
+    "static/js/2.69092f08.chunk.js.LICENSE.txt": "/static/js/2.69092f08.chunk.js.LICENSE.txt",
+    "static/media/CV_VICTOR_IGUALADA.48c38577.pdf": "/static/media/CV_VICTOR_IGUALADA.48c38577.pdf",
+    "static/media/about.c84b94d2.svg": "/static/media/about.c84b94d2.svg",
+    "static/media/avatar.2832e66b.svg": "/static/media/avatar.2832e66b.svg",
+    "static/media/face-detection.60b389df.png": "/static/media/face-detection.60b389df.png",
+    "static/media/home-main.d85b34a5.svg": "/static/media/home-main.d85b34a5.svg",
+    "static/media/style.css": "/static/media/pre.d4812f51.svg",
+    "static/media/rockoh.c2bb1df4.png": "/static/media/rockoh.c2bb1df4.png",
+    "static/media/uv-logo.8195b192.png": "/static/media/uv-logo.8195b192.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fde29dfb.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.69092f08.chunk.js",
+    "static/css/main.e5fd616b.chunk.css",
+    "static/js/main.8bb0bc45.chunk.js"
+  ]
+}
